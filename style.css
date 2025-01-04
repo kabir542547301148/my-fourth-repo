@@ -1,0 +1,24 @@
+.repo{
+    background-color: orangered;
+    text-align: center;
+    text-decoration: dotted;
+    margin: 20px;
+    color: black;
+   padding: 20px;
+   border: 10px;
+   border-radius: 20px;
+}
+#head{ background-color: rgb(61, 19, 3);
+    text-align: center;
+    text-decoration-line: underline;
+    margin: 20px;
+    color: rgb(219, 20, 20);
+   padding: 20px;
+   border: 20px;
+   border-radius: 50px;
+
+}
+div{
+    image width: 100px;
+    image height: 100px;px;
+}
