@@ -18,7 +18,16 @@
    border-radius: 50px;
 
 }
-div{
-    image width: 100px;
-    image height: 100px;px;
+div{background-color: rgb(204, 167, 154);
+    text-align: center;
+    text-decoration:darkblue;
+    margin: 20px;
+    color: rgb(228, 19, 19);
+   padding: 20px;
+   border: 10px;
+   border-radius: 20px;
+   
+}
+img{
+    width: 100px;
 }
